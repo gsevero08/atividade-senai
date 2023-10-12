@@ -1,0 +1,14 @@
+C:\Guilherme\bin\Debug\net7.0\Guilherme.exe
+C:\Guilherme\bin\Debug\net7.0\Guilherme.deps.json
+C:\Guilherme\bin\Debug\net7.0\Guilherme.runtimeconfig.json
+C:\Guilherme\bin\Debug\net7.0\Guilherme.dll
+C:\Guilherme\bin\Debug\net7.0\Guilherme.pdb
+C:\Guilherme\obj\Debug\net7.0\Guilherme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guilherme\obj\Debug\net7.0\Guilherme.AssemblyInfoInputs.cache
+C:\Guilherme\obj\Debug\net7.0\Guilherme.AssemblyInfo.cs
+C:\Guilherme\obj\Debug\net7.0\Guilherme.csproj.CoreCompileInputs.cache
+C:\Guilherme\obj\Debug\net7.0\Guilherme.dll
+C:\Guilherme\obj\Debug\net7.0\refint\Guilherme.dll
+C:\Guilherme\obj\Debug\net7.0\Guilherme.pdb
+C:\Guilherme\obj\Debug\net7.0\Guilherme.genruntimeconfig.cache
+C:\Guilherme\obj\Debug\net7.0\ref\Guilherme.dll
